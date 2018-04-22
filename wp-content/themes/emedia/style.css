@@ -1,0 +1,46 @@
+/*
+	Theme name: emedia
+	Author: Renan Silva
+	Version: 1.0.0
+*/
+
+html {
+	font-family: sans-serif;
+	line-height: 1.15;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+}
+
+article,
+aside,
+footer,
+header,
+nav,
+section {
+	display: block;
+}
+
+.fundo {
+	background-color: #DCDCDC;
+}
+
+#menu ul li { 
+	display: inline;
+}
+
+.espaco {
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.texto_logo {
+	padding-top: 15%;
+}
+
+.capa {
+	
+}
